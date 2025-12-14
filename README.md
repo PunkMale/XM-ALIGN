@@ -19,7 +19,7 @@
 
 * [x] **MAV-Celeb Dataset Preparation**: Data processing scripts and directory specifications have been released.
 * [x] **Training and Evaluation Code**: Full pipeline has been released.
-* [ ] **MAV-Celeb Native Evaluation**: Will be supported once MAV-Celeb publishes evaluation labels.
+* [ ] **MAV-Celeb Local Evaluation**: Will be supported once MAV-Celeb publishes evaluation labels.
 * [ ] **VoxCeleb Extension**: Planned to support VoxCeleb cross-modal matching tasks in the future.
 
 ---
