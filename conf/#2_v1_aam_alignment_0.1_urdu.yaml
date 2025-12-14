@@ -1,0 +1,27 @@
+### train configuraton
+
+save_path: exp/v1_aam_alignment_mse_w0.1_urdu
+
+train_list: data/v1_lists/Urdu_train.txt
+train_path: data/v1
+mav_root: data/v1
+mav_heard_list: Urdu_test.txt
+mav_unheard_list: English_test.txt
+
+max_epoch: 500
+lr: 0.001
+lr_decay: 0.97
+augment: True
+loss_type: aam
+
+embedding_dim_a: 512
+margin_a: 0.2
+scale_a: 30
+
+embedding_dim_v: 512
+margin_v: 0.2
+scale_v: 30
+
+embedding_alignment: True
+alignment_loss: mse
+alignment_weight: 0.1

@@ -1,0 +1,23 @@
+### train configuraton
+
+save_path: exp/v3_ce_alignment_mse_w1_english
+
+data_type: v3
+train_list: data/v3_lists/English_train.txt
+train_path: data/v3
+mav_root: data/v3
+mav_heard_list: English_test.txt
+mav_unheard_list: German_test.txt
+
+max_epoch: 500
+lr: 0.001
+lr_decay: 0.97
+augment: True
+loss_type: ce
+
+embedding_dim_a: 512
+embedding_dim_v: 512
+
+embedding_alignment: True
+alignment_loss: mse
+alignment_weight: 1.0

@@ -1,0 +1,11 @@
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+numpy==1.26.4
+opencv-python==4.11.0.86
+soundfile==0.13.1
+scipy==1.13.1
+scikit-learn==1.6.1
+pillow==11.3.0
+tqdm==4.67.1
+PyYAML==6.0.3
