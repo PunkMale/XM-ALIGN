@@ -11,6 +11,8 @@
 
 **[English](README.md) | [简体中文](README_ZH.md)**
 
+<img src="docs/xm-align-net.png" width="1000">
+
 </div>
 
 ---
