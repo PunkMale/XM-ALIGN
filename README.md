@@ -192,13 +192,12 @@ Then, submit the `archive.zip` to CodaBench for evaluation. Please visit the fol
 If this project has been helpful to your research, please cite our paper:
 
 ```bibtex
-@misc{fang2025xmalign,
-      title={XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association}, 
-      author={Zhihua Fang and Shumei Tao and Junxu Wang and Liang He},
-      year={2025},
-      eprint={2512.06757},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2512.06757}, 
+@INPROCEEDINGS{11463876,
+  author={Fang, Zhihua and Tao, Shumei and Wang, Junxu and He, Liang},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association}, 
+  year={2026},
+  pages={21760-21762},
+  doi={10.1109/ICASSP55912.2026.11463876}
 }
 ```
