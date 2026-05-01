@@ -2,8 +2,7 @@
 
 # XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-11463876-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11463876)
 [![arXiv](https://img.shields.io/badge/arXiv-2512.06757-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2512.06757)
 
 [![GitHub](https://img.shields.io/badge/GitHub-PunkMale%2FXM--ALIGN-black?style=for-the-badge&logo=github)](https://github.com/PunkMale/XM-ALIGN)
